@@ -1,4 +1,4 @@
 package com.giga.spring;
-
-public class AppTest {
+import junit.Framework.TestCase;
+public class AppTest extends TestCase{
 }
